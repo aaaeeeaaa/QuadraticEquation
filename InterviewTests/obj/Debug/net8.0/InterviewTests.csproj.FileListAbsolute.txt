@@ -1,0 +1,14 @@
+C:\Users\artem.DESKTOP-JQ1QBJ5\source\repos\Exercise1\InterviewTests\bin\Debug\net8.0\InterviewTests.exe
+C:\Users\artem.DESKTOP-JQ1QBJ5\source\repos\Exercise1\InterviewTests\bin\Debug\net8.0\InterviewTests.deps.json
+C:\Users\artem.DESKTOP-JQ1QBJ5\source\repos\Exercise1\InterviewTests\bin\Debug\net8.0\InterviewTests.runtimeconfig.json
+C:\Users\artem.DESKTOP-JQ1QBJ5\source\repos\Exercise1\InterviewTests\bin\Debug\net8.0\InterviewTests.dll
+C:\Users\artem.DESKTOP-JQ1QBJ5\source\repos\Exercise1\InterviewTests\bin\Debug\net8.0\InterviewTests.pdb
+C:\Users\artem.DESKTOP-JQ1QBJ5\source\repos\Exercise1\InterviewTests\obj\Debug\net8.0\InterviewTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem.DESKTOP-JQ1QBJ5\source\repos\Exercise1\InterviewTests\obj\Debug\net8.0\InterviewTests.AssemblyInfoInputs.cache
+C:\Users\artem.DESKTOP-JQ1QBJ5\source\repos\Exercise1\InterviewTests\obj\Debug\net8.0\InterviewTests.AssemblyInfo.cs
+C:\Users\artem.DESKTOP-JQ1QBJ5\source\repos\Exercise1\InterviewTests\obj\Debug\net8.0\InterviewTests.csproj.CoreCompileInputs.cache
+C:\Users\artem.DESKTOP-JQ1QBJ5\source\repos\Exercise1\InterviewTests\obj\Debug\net8.0\InterviewTests.dll
+C:\Users\artem.DESKTOP-JQ1QBJ5\source\repos\Exercise1\InterviewTests\obj\Debug\net8.0\refint\InterviewTests.dll
+C:\Users\artem.DESKTOP-JQ1QBJ5\source\repos\Exercise1\InterviewTests\obj\Debug\net8.0\InterviewTests.pdb
+C:\Users\artem.DESKTOP-JQ1QBJ5\source\repos\Exercise1\InterviewTests\obj\Debug\net8.0\InterviewTests.genruntimeconfig.cache
+C:\Users\artem.DESKTOP-JQ1QBJ5\source\repos\Exercise1\InterviewTests\obj\Debug\net8.0\ref\InterviewTests.dll

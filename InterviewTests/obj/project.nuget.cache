@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "BgzU134Wv2U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\artem.DESKTOP-JQ1QBJ5\\source\\repos\\Exercise1\\InterviewTests\\Exercise1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artem.DESKTOP-JQ1QBJ5\\.nuget\\packages\\xunit\\2.9.2\\xunit.2.9.2.nupkg.sha512",
+    "C:\\Users\\artem.DESKTOP-JQ1QBJ5\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\artem.DESKTOP-JQ1QBJ5\\.nuget\\packages\\xunit.analyzers\\1.16.0\\xunit.analyzers.1.16.0.nupkg.sha512",
+    "C:\\Users\\artem.DESKTOP-JQ1QBJ5\\.nuget\\packages\\xunit.assert\\2.9.2\\xunit.assert.2.9.2.nupkg.sha512",
+    "C:\\Users\\artem.DESKTOP-JQ1QBJ5\\.nuget\\packages\\xunit.core\\2.9.2\\xunit.core.2.9.2.nupkg.sha512",
+    "C:\\Users\\artem.DESKTOP-JQ1QBJ5\\.nuget\\packages\\xunit.extensibility.core\\2.9.2\\xunit.extensibility.core.2.9.2.nupkg.sha512",
+    "C:\\Users\\artem.DESKTOP-JQ1QBJ5\\.nuget\\packages\\xunit.extensibility.execution\\2.9.2\\xunit.extensibility.execution.2.9.2.nupkg.sha512",
+    "C:\\Users\\artem.DESKTOP-JQ1QBJ5\\.nuget\\packages\\xunit.runner.console\\2.9.2\\xunit.runner.console.2.9.2.nupkg.sha512",
+    "C:\\Users\\artem.DESKTOP-JQ1QBJ5\\.nuget\\packages\\xunit.runner.visualstudio\\2.8.2\\xunit.runner.visualstudio.2.8.2.nupkg.sha512"
+  ],
+  "logs": []
+}
